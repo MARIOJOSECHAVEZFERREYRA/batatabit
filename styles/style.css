@@ -168,8 +168,7 @@ main{
 	font-weight: bold;
 	line-height: 2.3rem;
 	color: var(--bitcoin-orange);
-	display: flex;
-	align-content: flex-start;
+
 	
 }
 .currency-table--container{
@@ -407,7 +406,7 @@ main{
 .plans-container--card{
 	display: flex;
 	scroll-snap-align: center;
-	
+	text-align: center;
 }
 /* CARDS REUTILIZABLES */
 .recommended{
